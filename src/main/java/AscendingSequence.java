@@ -14,7 +14,6 @@ public class AscendingSequence {
                 }
             }
             return result;
-
 //            int j = 0;
 //
 //            for (int i = start; i <= end; i += step) { этот вариант сложнее. Лучше тот, что ниже
@@ -29,10 +28,10 @@ public class AscendingSequence {
 
         return new int[]
 
-    {
-    }
+                {
+                }
 
-    ; //создаст пустой массив и тут же его вернет
-}
+                ; //создаст пустой массив и тут же его вернет
+    }
 
 }
